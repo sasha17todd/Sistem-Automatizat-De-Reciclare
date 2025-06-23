@@ -13,13 +13,13 @@
 
 /*Conectarea la WiFi & Firebase*/
 #define WIFI_SSID "Sasha-HUAWEI P60 Pro"
-#define WIFI_PASS "1q2w3e4r5t"
+#define WIFI_PASS "********"
 
-#define API_KEY   "AIzaSyAPNJdw0IUcaNagmm08BhBzeXY996BpIAU"
+#define API_KEY   "*******************************"
 #define DB_URL    "https://monitorizaredeseuri-90e3c-default-rtdb.europe-west1.firebasedatabase.app/"
 
-#define USER_EMAIL "alexandra.tudosiev@gmail.com"
-#define USER_PASS  "1q2w3e4r5t"
+#define USER_EMAIL "ale******.********@gmail.com" 
+#define USER_PASS  "********"
 
 /****Declararea porturilor de conectivitate la ESP32****/
 const int PIN_IR = 33; //senzor infrarosu
